@@ -1,0 +1,2 @@
+1) Why switch case is faster than if else
+2) Named for condition
