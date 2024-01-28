@@ -1,0 +1,8 @@
+1) How to optimize api in nodejs
+	- Optimize code
+		+ use asynchromous function and don't blog event loop by use thread pool(4 and we can increase)
+		+ compress data response
+		+ use jwt advoid session, coookie(it's save state in server)
+		+ Optimze database queries (design a good architect, use index)
+		+ If data response to large, use pagination
+		+ Use cache for data query many time and the same
